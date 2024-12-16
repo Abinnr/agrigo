@@ -1,3 +1,4 @@
+import 'package:agri_go/screens/home/components/seller.dart';
 import 'package:flutter/material.dart';
 
 import 'components/categories.dart';
@@ -25,6 +26,7 @@ class HomeScreen extends StatelessWidget {
               SizedBox(height: 20),
               PopularProducts(),
               SizedBox(height: 20),
+              Seller()
             ],
           ),
         ),

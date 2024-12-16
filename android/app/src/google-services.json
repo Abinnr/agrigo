@@ -1,0 +1,39 @@
+{
+    "project_info": {
+      "project_number": "132910252353",
+      "project_id": "abinnrwebsite",
+      "storage_bucket": "abinnrwebsite.firebasestorage.app"
+    },
+    "client": [
+      {
+        "client_info": {
+          "mobilesdk_app_id": "1:132910252353:android:a36b6a5c764b66a22961c0",
+          "android_client_info": {
+            "package_name": "com.example.myapp"
+          }
+        },
+        "oauth_client": [
+          {
+            "client_id": "132910252353-d1sl5gkntvu2918jl0ce2te042tvdfvl.apps.googleusercontent.com",
+            "client_type": 3
+          }
+        ],
+        "api_key": [
+          {
+            "current_key": "AIzaSyCw3aoT5JLhdopdNHnUweygSRFjFgTx8ts"
+          }
+        ],
+        "services": {
+          "appinvite_service": {
+            "other_platform_oauth_client": [
+              {
+                "client_id": "132910252353-d1sl5gkntvu2918jl0ce2te042tvdfvl.apps.googleusercontent.com",
+                "client_type": 3
+              }
+            ]
+          }
+        }
+      }
+    ],
+    "configuration_version": "1"
+  }
